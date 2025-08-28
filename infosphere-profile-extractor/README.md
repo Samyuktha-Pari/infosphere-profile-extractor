@@ -25,5 +25,5 @@ A web application that extracts and displays user profile information from publi
 
 ### 1. Clone Repo
 ```bash
-git clone https://github.com/yourusername/infosphere-profile-extractor.git
+git clone https://github.com/Samyuktha-Pari/infosphere-profile-extractor
 cd infosphere-profile-extractor
